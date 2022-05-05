@@ -1,4 +1,4 @@
 # Carrot Catching Game
 
 
-This carrot-catching game is created with vanilla JavaScript, using different web API and JavaScript classes.
+This carrot-catching game is created with HTML, CSS and JavaScript, using different web API and JavaScript classes.
